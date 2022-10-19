@@ -192,7 +192,7 @@ body {
     grid-gap: 10px;
   }
   .animais-lista {
-    grid-column: 1;
+    grid-column: 1 / 3;
   }
   .faq-lista, .dados, .mapa {
     grid-column: 1 / 3;
