@@ -189,7 +189,7 @@ body {
   }
   .grid-section {
     grid-template-columns: 1fr;
-    grid-gap: 10px;
+    grid-gap: 1px;
   }
   .animais-lista {
     grid-column: 3;
@@ -205,5 +205,9 @@ body {
   }
   .copy {
     margin-bottom: 0px;
+  }
+
+  .animais-descricao {
+    margin-top: 50px;
   }
 }
